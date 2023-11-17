@@ -1,0 +1,5 @@
+### Getting information about all characters
+GET https://{{host}}/api/character
+
+### Search alive Ricks
+GET https://{{host}}/api/character?name=rick&status=alive
